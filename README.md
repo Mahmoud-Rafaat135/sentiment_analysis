@@ -2,6 +2,7 @@
 Project Overview
 
 This project aims to analyze customer reviews for restaurants to determine the sentiment polarity—positive, negative, or neutral—and extract key insights like the most frequent words used in the reviews and the average review length. The core goal is to build a machine learning model that can automatically classify restaurant reviews as positive or negative.
+
 📁 Dataset
 
     Source: restaurant_reviews.tsv file
